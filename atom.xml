@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AIGISSS</title>
+  
+  <subtitle>爱即是诗</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.aigisss.com/"/>
+  <updated>2019-10-09T08:47:40.582Z</updated>
+  <id>https://blog.aigisss.com/</id>
+  
+  <author>
+    <name>Gong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://blog.aigisss.com/posts/3610a686.html"/>
+    <id>https://blog.aigisss.com/posts/3610a686.html</id>
+    <published>2019-10-09T08:46:58.000Z</published>
+    <updated>2019-10-09T08:47:40.582Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Oct 09 2019 16:55:32 GMT+0800 (GMT+08:00) --><h3 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h3><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Oct 09 2019 16:55:32 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
